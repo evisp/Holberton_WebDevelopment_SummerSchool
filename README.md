@@ -10,10 +10,10 @@ Our mission is to dive headfirst into the exciting world of web development. Thi
 
 ## Curricula and Timeline 📅
 
-- The fun begins on Jul 16, 2024, and we'll keep the excitement going (at least) until Jul 30, 2024.
+- The fun begins on `Jul 16, 2024`, and we'll keep the excitement going (at least) until `Jul 30, 2024`.
 - Then, everybody needs a summer break 🌟
-- We will resume again in Sep 3, 2024 unitl Sep 17, 2024 to level up our skills in JavaScript and React. 
-- 🕙 Sessions are every Tuesday, from 10:00 am to 1:00 pm.
+- We will resume again in `Sep 3, 2024` until `Sep 17, 2024` to level up our skills in JavaScript and React. 
+- 🕙 Sessions are every Tuesday, from `10:00 am` to `1:00 pm`.
 
 ## 📖 Curricala
 
