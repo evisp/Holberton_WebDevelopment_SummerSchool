@@ -37,19 +37,19 @@ Our mission is to dive headfirst into the exciting world of web development. Thi
 
 ### 🌟 Summer Break: August 🌟
 
-### Week 4: JavaScript Basics
+### Week 4 (Sep. 3): JavaScript Basics
 - Understand JavaScript syntax and data types
 - Learn to manipulate the DOM
 - Implement basic programming concepts: variables, loops, functions, and events
 - Develop interactive web pages using JavaScript
 
-### Week 5: Advanced JavaScript
+### Week 5 (Sep. 10): Advanced JavaScript
 - Explore JavaScript ES6 features: arrow functions, classes, and modules
 - Learn asynchronous JavaScript with promises and async/await
 - Utilize JavaScript for form validation and dynamic content updates
 - Understand error handling and debugging techniques
 
-### Week 6: Introduction to React
+### Week 6 (Sep. 17): Introduction to React
 - Get started with React and its component-based architecture
 - Create and manage state with hooks
 - Build reusable components and manage props
