@@ -50,7 +50,7 @@ Our mission is to dive headfirst into the exciting world of web development. Thi
 - Build reusable components and manage props
 - Develop a simple single-page application (SPA) with React
 
-# Week 6 (Sep. 17): Portfolio Project Presentation 🎓
+### Week 6 (Sep. 17): Portfolio Project Presentation 🎓
 It's time to show off what you've learned:
 
 - 📝 Project Development
